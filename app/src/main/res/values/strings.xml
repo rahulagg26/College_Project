@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">User Login Calculator</string>
+    <string name="no_of_attempts">No. of attempts :</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="secondactivity">SecondActivity</string>
+</resources>
